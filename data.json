@@ -1,0 +1,785 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
+    },
+    {
+      "day": 7,
+      "id": 7
+    },
+    {
+      "day": 8,
+      "id": 8
+    }
+
+  ],
+  "words": [
+    {
+      "id": 1,
+      "day": 1,
+      "eng": "theft ",
+      "kor": "절도",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "day": 1,
+      "eng": "witness",
+      "kor": "목격자, 증인",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "day": 1,
+      "eng": "a sheet of",
+      "kor": "~한 장",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "day": 2,
+      "eng": "hand",
+      "kor": "건네주다",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "day": 2,
+      "eng": "right away",
+      "kor": "즉시, 당장",
+      "isDone": false
+    },
+    {
+      "id": 6,
+      "day": 2,
+      "eng": "post",
+      "kor": "붙이다",
+      "isDone": false
+    },
+    {
+      "id": 7,
+      "day": 3,
+      "eng": "briefcase",
+      "kor": "서류가방",
+      "isDone": false
+    },
+    {
+      "id": 8,
+      "day": 3,
+      "eng": "after all",
+      "kor": "결국",
+      "isDone": false
+    },
+    {
+      "id": 9,
+      "day": 3,
+      "eng": "be based on",
+      "kor": "~에 기반하다",
+      "isDone": false
+    },
+    {
+      "id": 10,
+      "day": 3,
+      "eng": "be familiar with",
+      "kor": "~에 익숙하다",
+      "isDone": false
+    },
+    {
+      "id": 11,
+      "day": 4,
+      "eng": "be open for business",
+      "kor": "영업 중이다",
+      "isDone": false
+    },
+    {
+      "id": 12,
+      "day": 4,
+      "eng": "entry fee",
+      "kor": "참가 비용",
+      "isDone": false
+    },
+    {
+      "id": 13,
+      "day": 4,
+      "eng": "obviously",
+      "kor": "명백하게",
+      "isDone": false
+    },
+    {
+      "id": 14,
+      "day": 5,
+      "eng": "fluctuation",
+      "kor": "변동, 오르내림",
+      "isDone": false
+    },
+    {
+      "id": 15,
+      "day": 5,
+      "eng": "for business",
+      "kor": "사업 상",
+      "isDone": false
+    },
+    {
+      "id": 16,
+      "day": 5,
+      "eng": "go into business",
+      "kor": "사업을 시작하다",
+      "isDone": false
+    },
+    {
+      "id": 17,
+      "day": 5,
+      "eng": "go out of business",
+      "kor": "사업을 폐업하다",
+      "isDone": false
+    },
+    {
+      "id": 18,
+      "day": 5,
+      "eng": "afford to do",
+      "kor": "~할 수 있다, ~할 여유가 있다",
+      "isDone": false
+    },
+    {
+      "id": 19,
+      "day": 5,
+      "eng": "apparel",
+      "kor": "의복, 의류",
+      "isDone": false
+    },
+    {
+      "id": 20,
+      "day": 5,
+      "eng": "dairy products",
+      "kor": "유제품",
+      "isDone": false
+    },
+    {
+      "id": 21,
+      "day": 5,
+      "eng": "elsewhere",
+      "kor": "다른 장소에서는, 다른 경우에",
+      "isDone": false
+    },
+    {
+      "id": 22,
+      "day": 5,
+      "eng": "glassware",
+      "kor": "유리제품",
+      "isDone": false
+    },
+    {
+      "id": 23,
+      "day": 5,
+      "eng": "lately",
+      "kor": "최근에",
+      "isDone": false
+    },
+    {
+      "id": 24,
+      "day": 5,
+      "eng": "latest",
+      "kor": "최신의",
+      "isDone": false
+    },
+    {
+      "id": 25,
+      "day": 5,
+      "eng": "be carried out",
+      "kor": "수행되다",
+      "isDone": false
+    },
+    {
+      "id": 26,
+      "day": 5,
+      "eng": "be designed to do",
+      "kor": "~하도록 고안되다.",
+      "isDone": false
+    },
+    {
+      "id": 27,
+      "day": 5,
+      "eng": "breakthrough",
+      "kor": "비약적 발전",
+      "isDone": false
+    },
+    {
+      "id": 28,
+      "day": 5,
+      "eng": "by the time",
+      "kor": "그때까지",
+      "isDone": false
+    },
+    {
+      "id": 29,
+      "day": 5,
+      "eng": "custom-built",
+      "kor": "주문제작된",
+      "isDone": false
+    },
+    {
+      "id": 30,
+      "day": 5,
+      "eng": "customize",
+      "kor": "주문에 응하여 만들다",
+      "isDone": false
+    },
+    {
+      "id": 31,
+      "day": 5,
+      "eng": "disruption",
+      "kor": "중단, 혼란",
+      "isDone": false
+    },
+    {
+      "id": 32,
+      "day": 5,
+      "eng": "efficiency",
+      "kor": "효율",
+      "isDone": false
+    },
+    {
+      "id": 33,
+      "day": 6,
+      "eng": "fasten the strap",
+      "kor": "끈을 조이다",
+      "isDone": false
+    },
+    {
+      "id": 34,
+      "day": 6,
+      "eng": "go out of production",
+      "kor": "생산을 중단하다",
+      "isDone": false
+    },
+    {
+      "id": 35,
+      "day": 6,
+      "eng": "in a moment",
+      "kor": "순식간에, 곧",
+      "isDone": false
+    },
+    {
+      "id": 36,
+      "day": 6,
+      "eng": "makeup",
+      "kor": "조립, 구성",
+      "isDone": false
+    },
+    {
+      "id": 37,
+      "day": 6,
+      "eng": "much to one's surprise",
+      "kor": "매우 놀랍게도",
+      "isDone": false
+    },
+    {
+      "id": 38,
+      "day": 6,
+      "eng": "pack away",
+      "kor": "모아두다, 저장하다",
+      "isDone": false
+    },
+    {
+      "id": 39,
+      "day": 6,
+      "eng": "adverse",
+      "kor": "불리한",
+      "isDone": false
+    },
+    {
+      "id": 40,
+      "day": 6,
+      "eng": "as requested",
+      "kor": "요청한 대로",
+      "isDone": false
+    },
+    {
+      "id": 41,
+      "day": 6,
+      "eng": "discouraging",
+      "kor": "낙담시키는",
+      "isDone": false
+    },
+    {
+      "id": 42,
+      "day": 6,
+      "eng": "go on",
+      "kor": "계속되다",
+      "isDone": false
+    },
+    {
+      "id": 43,
+      "day": 6,
+      "eng": "memorable",
+      "kor": "기억할 만한, 잊혀지지 않는",
+      "isDone": false
+    },
+    {
+      "id": 44,
+      "day": 6,
+      "eng": "memorial ",
+      "kor": "기념의, 기념물",
+      "isDone": false
+    },
+    {
+      "id": 45,
+      "day": 6,
+      "eng": "go through customs",
+      "kor": "세관을 통과하다",
+      "isDone": false
+    },
+    {
+      "id": 46,
+      "day": 6,
+      "eng": "jet lag",
+      "kor": "시차증",
+      "isDone": false
+    },
+    {
+      "id": 47,
+      "day": 6,
+      "eng": "percisely",
+      "kor": "정확히",
+      "isDone": false
+    },
+    {
+      "id": 48,
+      "day": 6,
+      "eng": "runway",
+      "kor": "활주로",
+      "isDone": false
+    },
+    {
+      "id": 49,
+      "day": 6,
+      "eng": "seasickness",
+      "kor": "뱃멀미",
+      "isDone": false
+    },
+    {
+      "id": 50,
+      "day": 7,
+      "eng": "it is no wonder (that)",
+      "kor": "~은 당연히",
+      "isDone": false
+    },
+    {
+      "id": 51,
+      "day": 7,
+      "eng": "portray",
+      "kor": "그리다",
+      "isDone": false
+    },
+    {
+      "id": 52,
+      "day": 7,
+      "eng": "repave",
+      "kor": "재포장하다",
+      "isDone": false
+    },
+    {
+      "id": 53,
+      "day": 7,
+      "eng": "run the risk of",
+      "kor": "~의 위험을 무릅쓰다",
+      "isDone": false
+    },
+    {
+      "id": 54,
+      "day": 7,
+      "eng": "think over",
+      "kor": "심사숙고하다",
+      "isDone": false
+    },
+    {
+      "id": 55,
+      "day": 7,
+      "eng": "affiliation",
+      "kor": "합병",
+      "isDone": false
+    },
+    {
+      "id": 56,
+      "day": 7,
+      "eng": "arbitration",
+      "kor": "중재",
+      "isDone": false
+    },
+    {
+      "id": 57,
+      "day": 7,
+      "eng": "beside the point",
+      "kor": "요점을 벗어난",
+      "isDone": false
+    },
+    {
+      "id": 58,
+      "day": 7,
+      "eng": "foil",
+      "kor": "좌절시키다, 뒤엎다",
+      "isDone": false
+    },
+    {
+      "id": 59,
+      "day": 7,
+      "eng": "engrave",
+      "kor": "~에 새기다",
+      "isDone": false
+    },
+    {
+      "id": 60,
+      "day": 7,
+      "eng": "facilitator",
+      "kor": "조력자, 협력자",
+      "isDone": false
+    },
+    {
+      "id": 61,
+      "day": 7,
+      "eng": "itemized",
+      "kor": "항목별로 구분한",
+      "isDone": false
+    },
+    {
+      "id": 62,
+      "day": 7,
+      "eng": "keep track of",
+      "kor": "~을 계속 기록하다, 추적하다",
+      "isDone": false
+    },
+    {
+      "id": 63,
+      "day": 7,
+      "eng": "predominantly",
+      "kor": "대개, 대부분",
+      "isDone": false
+    },
+    {
+      "id": 64,
+      "day": 7,
+      "eng": "profoundly",
+      "kor": "깊이",
+      "isDone": false
+    },
+    {
+      "id": 65,
+      "day": 7,
+      "eng": "barring",
+      "kor": "~이 없다면, 금지(n)",
+      "isDone": false
+    },
+    {
+      "id": 66,
+      "day": 7,
+      "eng": "bureacuracy",
+      "kor": "관료제도",
+      "isDone": false
+    },
+    {
+      "id": 67,
+      "day": 7,
+      "eng": "cast a ballot",
+      "kor": "투표하다",
+      "isDone": false
+    },
+    {
+      "id": 68,
+      "day": 7,
+      "eng": "alumni association",
+      "kor": "동창회",
+      "isDone": false
+    },
+    {
+      "id": 69,
+      "day": 7,
+      "eng": "bilateral",
+      "kor": "쌍방의",
+      "isDone": false
+    },
+    {
+      "id": 70,
+      "day": 7,
+      "eng": "bilingual",
+      "kor": "2개 국어의",
+      "isDone": false
+    },
+    {
+      "id": 71,
+      "day": 7,
+      "eng": "diplomat",
+      "kor": "외교관",
+      "isDone": false
+    },
+    {
+      "id": 72,
+      "day": 7,
+      "eng": "embargo",
+      "kor": "무역금지",
+      "isDone": false
+    },
+    {
+      "id": 73,
+      "day": 7,
+      "eng": "expatriate",
+      "kor": "국적을 상실한 사람",
+      "isDone": false
+    },
+
+    {
+      "id": 74,
+      "day": 7,
+      "eng": "expedite",
+      "kor": "신속히 처리하다, 진척시키다",
+      "isDone": false
+    },
+
+    {
+      "id": 75,
+      "day": 7,
+      "eng": "import license",
+      "kor": "수입허가서",
+      "isDone": false
+    },
+
+    {
+      "id": 76,
+      "day": 7,
+      "eng": "intend recipient",
+      "kor": "해당 수취인",
+      "isDone": false
+    },
+
+    {
+      "id": 77,
+      "day": 7,
+      "eng": "progression",
+      "kor": "진행, 진전",
+      "isDone": false
+    },
+    {
+      "id": 78,
+      "day": 8,
+      "eng": "cloakroom",
+      "kor": "휴대품 보관소",
+      "isDone": false
+    },
+    {
+      "id": 79,
+      "day": 8,
+      "eng": "gourmet",
+      "kor": "미식가",
+      "isDone": false
+    },
+    {
+      "id": 80,
+      "day": 8,
+      "eng": "grab a bite",
+      "kor": "간단히 먹다",
+      "isDone": false
+    },
+    {
+      "id": 81,
+      "day": 8,
+      "eng": "help oneself to the food",
+      "kor": "자유로이 먹다",
+      "isDone": false
+    },
+    {
+      "id": 82,
+      "day": 8,
+      "eng": "meal pass",
+      "kor": "식권",
+      "isDone": false
+    },
+    {
+      "id": 83,
+      "day": 8,
+      "eng": "pick up the check",
+      "kor": "돈을 내다",
+      "isDone": false
+    },
+    {
+      "id": 84,
+      "day": 8,
+      "eng": "preheat",
+      "kor": "미리 오븐을 예열하다",
+      "isDone": false
+    },
+    {
+      "id": 85,
+      "day": 8,
+      "eng": "scoop",
+      "kor": "퍼내다",
+      "isDone": false
+    },
+    {
+      "id": 86,
+      "day": 8,
+      "eng": "slurp",
+      "kor": "소리내어 마시다",
+      "isDone": false
+    },
+    {
+      "id": 87,
+      "day": 8,
+      "eng": "wait on",
+      "kor": "시중을 들다",
+      "isDone": false
+    },
+    {
+      "id": 88,
+      "day": 8,
+      "eng": "estimated",
+      "kor": "견적의",
+      "isDone": false
+    },
+    {
+      "id": 89,
+      "day": 8,
+      "eng": "financier",
+      "kor": "재정가, 재무관",
+      "isDone": false
+    },
+    {
+      "id": 90,
+      "day": 8,
+      "eng": "gratified",
+      "kor": "만족한, 기뻐하는",
+      "isDone": false
+    },
+    {
+      "id": 91,
+      "day": 8,
+      "eng": "hollow",
+      "kor": "속이 빈, 오목한, 구멍, 공허한",
+      "isDone": false
+    },
+    {
+      "id": 92,
+      "day": 8,
+      "eng": "immeasurably",
+      "kor": "헤아릴 수 / 측정할 수 없을 정도로",
+      "isDone": false
+    },
+    {
+      "id": 93,
+      "day": 8,
+      "eng": "indicated",
+      "kor": "계기에 표시된",
+      "isDone": false
+    },
+    {
+      "id": 94,
+      "day": 8,
+      "eng": "indicative",
+      "kor": "나타내는, 암시하는",
+      "isDone": false
+    },
+    {
+      "id": 95,
+      "day": 8,
+      "eng": "literally",
+      "kor": "문자 그대로, 실제로",
+      "isDone": false
+    },
+    {
+      "id": 96,
+      "day": 8,
+      "eng": "literal",
+      "kor": "정확한",
+      "isDone": false
+    },
+    {
+      "id": 97,
+      "day": 8,
+      "eng": "adjournment",
+      "kor": "연기, 휴회",
+      "isDone": false
+    },
+    {
+      "id": 98,
+      "day": 8,
+      "eng": "amply",
+      "kor": "풍부하게, 충분히",
+      "isDone": false
+    },
+    {
+      "id": 99,
+      "day": 8,
+      "eng": "back order",
+      "kor": "이월 주문",
+      "isDone": false
+    },
+    {
+      "id": 100,
+      "day": 8,
+      "eng": "be in the black(red)",
+      "kor": "흑자(적자) 상태에 있다.",
+      "isDone": false
+    },
+    {
+      "id": 101,
+      "day": 8,
+      "eng": "break-even point",
+      "kor": "손익 분기점",
+      "isDone": false
+    },
+    {
+      "id": 102,
+      "day": 8,
+      "eng": "by a considerable margin",
+      "kor": "큰 차이로",
+      "isDone": false
+    },
+    {
+      "id": 103,
+      "day": 8,
+      "eng": "cash reserves",
+      "kor": "현금 보유고",
+      "isDone": false
+    },
+    {
+      "id": 104,
+      "day": 8,
+      "eng": "reserve",
+      "kor": "예약하다",
+      "isDone": false
+    },
+    {
+      "id": 105,
+      "day": 8,
+      "eng": "reserves",
+      "kor": "매장량",
+      "isDone": false
+    },
+    {
+      "id": 106,
+      "day": 8,
+      "eng": "discrepancy",
+      "kor": "불일치, 차이",
+      "isDone": false
+    }
+  ]
+}

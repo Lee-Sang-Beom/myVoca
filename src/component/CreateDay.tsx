@@ -1,5 +1,5 @@
 import React from 'react';
-import { useHistory } from 'react-router-dom/cjs/react-router-dom.min';
+import { useHistory } from 'react-router-dom';
 import useFetch from '../hook/useFetch';
 
 export default function CreateDay(){
@@ -7,7 +7,7 @@ export default function CreateDay(){
     const days = useFetch(`http://localhost:3001/days`);
     const history = useHistory();
 
-    function addDay(e){
+    function addDay(e : React.FormEvent){
         e.preventDefault();
         fetch(`http://localhost:3001/days`,{
             // 두번째 인자로 객체 입력

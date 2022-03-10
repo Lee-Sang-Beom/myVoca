@@ -1,7 +1,26 @@
+import { maxHeaderSize } from 'http';
 import React, { useState } from 'react';
 
-export default function Word( props ){
-    const [word, setWord] = useState(props.word);
+interface IProps{
+    word : IWord;
+}
+
+export interface IWord{
+    day : number;
+    eng : string;
+    kor : string;
+    isDone : boolean; // ?은 옵셔널하게
+    id : number;
+
+    // "day": 3,
+    // "eng": "window",
+    // "kor": "창문",
+    // "isDone": false,
+    // "id": 7
+
+}
+export default function Word( {word : w} : IProps ){
+    const [word, setWord] = useState(w);
     const [isShow, setIsShow] = useState(false); // 처음에는 뜻이 안보여야 하므로 false
     const [isDone, setIsDone] = useState(word.isDone);
     
@@ -35,7 +54,7 @@ export default function Word( props ){
                 method : 'DELETE',
             }).then((res) => {
                 if(res.ok){
-                    setWord({ id : 0 });
+                    setWord({ ...word, id : 0 });
                 }
             })
         }
@@ -51,7 +70,7 @@ export default function Word( props ){
         <>
             <tr className={isDone ? "off" : ""}>
                 <td><input type="checkbox" checked = {isDone} onChange = {toggleDone}/></td>
-                <td>{word.eng}</td>
+                <td style={{width : "40%"}}>{word.eng}</td>
                 <td>{isShow && word.kor}</td>
                 <td>
                     <button onClick = {toggleShow}>

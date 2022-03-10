@@ -1,13 +1,13 @@
 
 import React, { useEffect, useState } from 'react';
-import { useParams } from "react-router-dom/cjs/react-router-dom.min";
+import { useParams } from 'react-router-dom';
 import useFetch from '../hook/useFetch';
-import Word from "./Word";
+import Word, { IWord } from "./Word";
 
 export default function Day() {
 
-    const {day} = useParams();
-    const words = useFetch(`http://localhost:3001/words?day=${day}`);
+    const {day} = useParams<{day : string}>();
+    const words : IWord[] = useFetch(`http://localhost:3001/words?day=${day}`);
 
     // if(words.length === 0){
     //     return <span>Loading...</span>
