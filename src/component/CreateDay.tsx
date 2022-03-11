@@ -4,12 +4,12 @@ import useFetch from '../hook/useFetch';
 
 export default function CreateDay(){
 
-    const days = useFetch(`http://localhost:3001/days`);
+    const days = useFetch(`https://lsbmyvoca.herokuapp.com/days`);
     const history = useHistory();
 
     function addDay(e : React.FormEvent){
         e.preventDefault();
-        fetch(`http://localhost:3001/days`,{
+        fetch(`https://lsbmyvoca.herokuapp.com/1/days`,{
             // 두번째 인자로 객체 입력
             method : 'POST', // method는 뭘할지
             headers : {

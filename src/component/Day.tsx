@@ -7,11 +7,12 @@ import Word, { IWord } from "./Word";
 export default function Day() {
 
     const {day} = useParams<{day : string}>();
-    const words : IWord[] = useFetch(`http://localhost:3001/words?day=${day}`);
+    const words : IWord[] = useFetch(`https://lsbmyvoca.herokuapp.com/words?day=${day}`);
 
     // if(words.length === 0){
     //     return <span>Loading...</span>
     // }
+    // // json-server --watch ./src/db/data.json --port 3001
     
     return (
         <>
