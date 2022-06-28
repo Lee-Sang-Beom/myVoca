@@ -1,11 +1,16 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { Icon } from 'semantic-ui-react';
 
 export default function Header() {
     return (
         <div className="header">
             <h1>
-                <Link to = "/"> 토익 영단어 (고급) </Link>
+                <Link to = "/"> 
+                    <div className = "main_box">
+                        토익 영단어 (고급)
+                    </div>
+                </Link>
             </h1>
 
             <div className="menu">

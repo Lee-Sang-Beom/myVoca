@@ -4,7 +4,7 @@ import useFetch from '../hook/useFetch';
 import { IDay } from './DayList';
 export default function CreateWord(){
 
-    const days : IDay[] = useFetch(`https://lsbmyvoca.herokuapp.com/days`);
+    const days : IDay[] = useFetch(`http://localhost:3001/days`);
     const history = useHistory();
 
     const [isLoading, setIsLoading] = useState(false);
@@ -24,7 +24,7 @@ export default function CreateWord(){
             const day = dayRef.current.value;
 
             setIsLoading(true);
-            fetch(`https://lsbmyvoca.herokuapp.com/words`,{
+            fetch(`http://localhost:3001/words`,{
                 // 두번째 인자로 객체 입력
                 method : 'POST', // method는 뭘할지
                 headers : {
@@ -39,7 +39,7 @@ export default function CreateWord(){
             }).then(res => {
                 if (res.ok){
                     alert("설정 완료");
-                    history.push(`/day/${day}}`);
+                    history.push(`/day/${day}`);
                     setIsLoading(false); // 통신중에 여러번 클릭했을때의 오류방지
                 }
             })

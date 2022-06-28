@@ -31,8 +31,19 @@
     {
       "day": 8,
       "id": 8
+    },
+    {
+      "day": 9,
+      "id": 9
+    },
+    {
+      "day": 10,
+      "id": 10
+    },
+    {
+      "day": 11,
+      "id": 11
     }
-
   ],
   "words": [
     {
@@ -546,7 +557,6 @@
       "kor": "국적을 상실한 사람",
       "isDone": false
     },
-
     {
       "id": 74,
       "day": 7,
@@ -554,7 +564,6 @@
       "kor": "신속히 처리하다, 진척시키다",
       "isDone": false
     },
-
     {
       "id": 75,
       "day": 7,
@@ -562,7 +571,6 @@
       "kor": "수입허가서",
       "isDone": false
     },
-
     {
       "id": 76,
       "day": 7,
@@ -570,7 +578,6 @@
       "kor": "해당 수취인",
       "isDone": false
     },
-
     {
       "id": 77,
       "day": 7,
@@ -780,6 +787,370 @@
       "eng": "discrepancy",
       "kor": "불일치, 차이",
       "isDone": false
+    },
+    {
+      "eng": "make the first move",
+      "kor": "개시하다, 발단을 만들다",
+      "day": "9",
+      "isDone": false,
+      "id": 107
+    },
+    {
+      "eng": "take a turn for the better",
+      "kor": "호전되다",
+      "day": "9",
+      "isDone": false,
+      "id": 108
+    },
+    {
+      "eng": "warm-up",
+      "kor": "준비운동, 예행연습",
+      "day": "9",
+      "isDone": false,
+      "id": 109
+    },
+    {
+      "eng": "be contingent upon",
+      "kor": "~에 따라 결정되다",
+      "day": "9",
+      "isDone": false,
+      "id": 110
+    },
+    {
+      "eng": "established",
+      "kor": "확립된, 정평이 있는",
+      "day": "9",
+      "isDone": false,
+      "id": 111
+    },
+    {
+      "eng": "front-runner",
+      "kor": "가장 유력한 우승후보",
+      "day": "9",
+      "isDone": false,
+      "id": 112
+    },
+    {
+      "eng": "intermittently",
+      "kor": "간헐적으로",
+      "day": "9",
+      "isDone": false,
+      "id": 113
+    },
+    {
+      "eng": "momentarily",
+      "kor": "잠깐, 즉시",
+      "day": "9",
+      "isDone": false,
+      "id": 114
+    },
+    {
+      "eng": "narrative",
+      "kor": "(소설 속 사건에 대한) 기술, 묘사",
+      "day": "9",
+      "isDone": false,
+      "id": 115
+    },
+    {
+      "eng": "consenting",
+      "kor": "동의하는, 낙담하는",
+      "day": "9",
+      "isDone": false,
+      "id": 116
+    },
+    {
+      "eng": "conversationally",
+      "kor": "담화로, 회화체로",
+      "day": "9",
+      "isDone": false,
+      "id": 117
+    },
+    {
+      "eng": "eloquent",
+      "kor": "웅변을 잘하는, (연설 등이)감명을 주는",
+      "day": "9",
+      "isDone": false,
+      "id": 118
+    },
+    {
+      "eng": "faction",
+      "kor": "파벌, 당파",
+      "day": "9",
+      "isDone": false,
+      "id": 119
+    },
+    {
+      "eng": "illegible",
+      "kor": "읽기 어려운",
+      "day": "9",
+      "isDone": false,
+      "id": 120
+    },
+    {
+      "eng": "presumably",
+      "kor": "아마, 생각건대",
+      "day": "9",
+      "isDone": false,
+      "id": 121
+    },
+    {
+      "eng": "abbreviate",
+      "kor": "요약하다, 단축하다",
+      "day": "9",
+      "isDone": false,
+      "id": 122
+    },
+    {
+      "eng": "abridgment",
+      "kor": "요약, 요약본",
+      "day": "9",
+      "isDone": false,
+      "id": 123
+    },
+    {
+      "eng": "coherent",
+      "kor": "일관성 있는, (이야기)조리있는",
+      "day": "9",
+      "isDone": false,
+      "id": 124
+    },
+    {
+      "eng": "confine",
+      "kor": "제한하다",
+      "day": "9",
+      "isDone": false,
+      "id": 125
+    },
+    {
+      "eng": "citation",
+      "kor": "표창장",
+      "day": "9",
+      "isDone": false,
+      "id": 126
+    },
+    {
+      "eng": "commemorate",
+      "kor": "기념하다",
+      "day": "9",
+      "isDone": false,
+      "id": 127
+    },
+    {
+      "eng": "conjunction",
+      "kor": "연합, 공동",
+      "day": "9",
+      "isDone": false,
+      "id": 128
+    },
+    {
+      "eng": "cut benefits",
+      "kor": "복리후생을 줄이다",
+      "day": "9",
+      "isDone": false,
+      "id": 129
+    },
+    {
+      "eng": "discriminate",
+      "kor": "차별하다",
+      "day": "9",
+      "isDone": false,
+      "id": 130
+    },
+    {
+      "eng": "distort",
+      "kor": "왜곡하다",
+      "day": "9",
+      "isDone": false,
+      "id": 131
+    },
+    {
+      "eng": "flextime",
+      "kor": "자율근무시간제",
+      "day": "9",
+      "isDone": false,
+      "id": 132
+    },
+    {
+      "eng": "fringe benefits",
+      "kor": "부가 급부",
+      "day": "9",
+      "isDone": false,
+      "id": 133
+    },
+    {
+      "eng": "goodwill",
+      "kor": "호의",
+      "day": "9",
+      "isDone": false,
+      "id": 134
+    },
+    {
+      "eng": "labor costs",
+      "kor": "인건비",
+      "day": "9",
+      "isDone": false,
+      "id": 135
+    },
+    {
+      "eng": "apprentice ",
+      "kor": "견습생, 도제",
+      "day": "10",
+      "isDone": false,
+      "id": 136
+    },
+    {
+      "eng": "credential",
+      "kor": "신임장, 자격증명서",
+      "day": "10",
+      "isDone": false,
+      "id": 137
+    },
+    {
+      "eng": "thorough",
+      "kor": "빈틈없는, 꼼꼼한, 철저한",
+      "day": "10",
+      "isDone": false,
+      "id": 138
+    },
+    {
+      "eng": "estimated",
+      "kor": "견적의",
+      "day": "10",
+      "isDone": false,
+      "id": 139
+    },
+    {
+      "eng": "accurate",
+      "kor": "정확한",
+      "day": "10",
+      "isDone": false,
+      "id": 140
+    },
+    {
+      "eng": "expenditure",
+      "kor": "지출, 비용",
+      "day": "10",
+      "isDone": false,
+      "id": 141
+    },
+    {
+      "eng": "authorize",
+      "kor": "위임하다, 승인하다",
+      "day": "10",
+      "isDone": false,
+      "id": 142
+    },
+    {
+      "eng": "grant",
+      "kor": "승인하다",
+      "day": "10",
+      "isDone": false,
+      "id": 143
+    },
+    {
+      "eng": "ordinarily",
+      "kor": "정상적으로, 대개는, 보통으로는",
+      "day": "10",
+      "isDone": false,
+      "id": 144
+    },
+    {
+      "eng": "technically",
+      "kor": "기술적으로",
+      "day": "10",
+      "isDone": false,
+      "id": 145
+    },
+    {
+      "eng": "comparatively",
+      "kor": "비교적, 비교해보면",
+      "day": "10",
+      "isDone": false,
+      "id": 146
+    },
+    {
+      "eng": "shut off",
+      "kor": "끄다, 잠그다",
+      "day": "10",
+      "isDone": false,
+      "id": 147
+    },
+    {
+      "eng": "tutoring session",
+      "kor": "개인 교습",
+      "day": "10",
+      "isDone": false,
+      "id": 148
+    },
+    {
+      "eng": "formula",
+      "kor": "제조법, 방식",
+      "day": "10",
+      "isDone": false,
+      "id": 149
+    },
+    {
+      "eng": "remain to be seen",
+      "kor": "두고볼 일이다, 두고봐야한다",
+      "day": "10",
+      "isDone": false,
+      "id": 150
+    },
+    {
+      "eng": "congressperson",
+      "kor": "국회의원",
+      "day": "10",
+      "isDone": false,
+      "id": 151
+    },
+    {
+      "eng": "influx",
+      "kor": "쇄도, 유입, 밀어닥침",
+      "day": "10",
+      "isDone": false,
+      "id": 152
+    },
+    {
+      "eng": "convinced",
+      "kor": "확신을 가진, 신념있는",
+      "day": "10",
+      "isDone": false,
+      "id": 153
+    },
+    {
+      "eng": "circulate",
+      "kor": "순환하다, 유포되다",
+      "day": "10",
+      "isDone": false,
+      "id": 154
+    },
+    {
+      "eng": "precisely",
+      "kor": "바로, 정확히, 정확하게",
+      "day": "10",
+      "isDone": false,
+      "id": 155
+    },
+    {
+      "eng": "repeatedly",
+      "kor": "되풀이하여",
+      "day": "10",
+      "isDone": false,
+      "id": 156
+    },
+    {
+      "eng": "fairly",
+      "kor": "상당히, 꽤",
+      "day": "10",
+      "isDone": false,
+      "id": 157
+    },
+    {
+      "eng": "whereas",
+      "kor": "반면",
+      "day": "10",
+      "isDone": false,
+      "id": 158
     }
   ]
 }

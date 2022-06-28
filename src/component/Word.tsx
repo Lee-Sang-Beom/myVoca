@@ -31,7 +31,7 @@ export default function Word( {word : w} : IProps ){
     function toggleDone() {
         // setIsDone(!isDone);
         // put메소드. 수정사항을 json 서버에 적용하기위함
-        fetch(`https://lsbmyvoca.herokuapp.com/${word.id}`,{
+        fetch(`http://localhost:3001/words/${word.id}`,{
             // 두번째 인자로 객체 입력
             method : 'PUT', // method는 뭘할지
             headers : {
@@ -50,7 +50,7 @@ export default function Word( {word : w} : IProps ){
     
     function del() {
         if(window.confirm('삭제하시겠습니까?')){
-            fetch(`https://lsbmyvoca.herokuapp.com/words/${word.id}`, {
+            fetch(`http://localhost:3001/words/${word.id}`, {
                 method : 'DELETE',
             }).then((res) => {
                 if(res.ok){
@@ -70,7 +70,7 @@ export default function Word( {word : w} : IProps ){
         <>
             <tr className={isDone ? "off" : ""}>
                 <td><input type="checkbox" checked = {isDone} onChange = {toggleDone}/></td>
-                <td style={{width : "40%"}}>{word.eng}</td>
+                <td style={{width : "30%"}}>{word.eng}</td>
                 <td>{isShow && word.kor}</td>
                 <td>
                     <button onClick = {toggleShow}>

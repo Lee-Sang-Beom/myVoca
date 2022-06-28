@@ -41,13 +41,15 @@ a {
 }
 
 .header .link {
-  border: 5px solid rgb(0, 0, 0);
+  border: 3px solid rgb(255, 255, 255);
   padding: 10px;
   margin-left: 10px;
-  background-color: #efefef;
+  background-color: rgb(82, 163, 255);
   font-weight: bold;
   border-radius: 10px;
   transition: all 400ms;
+  color : white;
+  font-size: 18px;
 }
 
 .header .link:hover{
@@ -62,9 +64,10 @@ a {
 }
 
 .list_day li {
-  flex: 20% 0 0;
+  flex: 20% 0;
   box-sizing: border-box;
   padding: 10px;
+  
 }
 
 .list_day a{
@@ -73,9 +76,11 @@ a {
   font-weight: bold;
   color: rgb(0, 0, 0);
   text-align: center;
-  border-radius: 10px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
   background-color: rgb(255, 255, 255);
   transition: all 0.4s;
+  border-bottom: 0.1px solid rgba(18, 0, 85, 0.993);
 }
 
 .list_day a:hover{
@@ -93,7 +98,7 @@ table td {
   height: 70px;
   border: 1px solid #ccc;
   text-align: center;
-  font-size: 24px;
+  font-size: 20px;
 }
 
 table td:first-child {
@@ -150,4 +155,16 @@ button:hover{
   width: 400px;
   height: 40px;
   font-size: 20px;
+}
+
+.main_box{
+  width: 340px;
+  height : 60px;
+  border-radius: 5%;
+}
+
+.main_box:hover{
+  background-color: black;
+  color : white;
+  transition: all 400ms;
 }
