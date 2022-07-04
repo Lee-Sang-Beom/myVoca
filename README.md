@@ -57,5 +57,5 @@ npm install -g json-server
 
  - json-server 실행은 아래 명령어를 사용할 수 있습니다.
 ```
-json-server --watch [json파일 경로] --port [포트번호]
+json-server --watch (json파일 경로) --port (포트번호)
 ```
