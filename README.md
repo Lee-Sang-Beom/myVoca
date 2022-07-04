@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+Project - MyVoca
+======================
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 1. 프로젝트 계획 이유
+ JS와 비교하여, 버그를 사전에 제거하는 것에 도움이 되는 TS를 공부하고, 그를 사용해보는 것이 목표입니다.
 
-## Available Scripts
+ 또한 TS기반의 React 프로젝트를 개발함과 동시에, 자기계발을 위하여 영단어를 함께 공부할 수 있으면 좋을 것이라 생각하여 해당 프로젝트를 계획하였습니다.
 
-In the project directory, you can run:
+ 데이터 저장은 json-server를 이용합니다.
 
-### `npm start`
+### - 제공기능
+	1. Day 별 영단어 확인
+	2. Day 별 영단어 뜻 보기, 가리기
+	3. Day 별 영단어 삭제하기
+    4. Day, 단어 추가하기
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 2. 설치
+ > 프로그램 실행을 위한 설치과정을 기술합니다.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 2.1 Node.js 설치
+ - React 실행을 위해, Node.js가 사전에 설치되어 있어야 합니다.
 
-### `npm test`
+### 2.2 Typescript 설치
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ - Typescript를 설치합니다.
+```
+npm install [-g : 전역설치 시, 해당 명령어 사용] typescript
+```
 
-### `npm run build`
+ - Typescript를 node에서 실행시킬 수 있는 런타임을 설치합니다.
+```
+npm install ts-node --save-dev
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 2.3 React 설치
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ - Node.js 설치 후, React를 설치합니다.
+```
+npm install -g create-react-app
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ - 설치 확인은 아래의 명령어를 사용하여 확인할 수 있습니다.
+```
+npm -v
+```
 
-### `npm run eject`
+ - 실행
+```
+npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 2.4 json-server 설치
+ - 영단어 데이터 관리를 위하여, json-server를 사용하기 때문에, json-server를 설치합니다.
+```
+npm install -g json-server
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ - json-server 실행은 아래 명령어를 사용할 수 있습니다.
+```
+json-server --watch [json파일 경로] --port [포트번호]
+```

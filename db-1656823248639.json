@@ -43,22 +43,6 @@
     {
       "day": 11,
       "id": 11
-    },
-    {
-      "day": 12,
-      "id": 12
-    },
-    {
-      "day": 13,
-      "id": 13
-    },
-    {
-      "day": 14,
-      "id": 14
-    },
-    {
-      "day": 15,
-      "id": 15
     }
   ],
   "words": [
@@ -807,1029 +791,1029 @@
     {
       "eng": "make the first move",
       "kor": "개시하다, 발단을 만들다",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 107
     },
     {
       "eng": "take a turn for the better",
       "kor": "호전되다",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 108
     },
     {
       "eng": "warm-up",
       "kor": "준비운동, 예행연습",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 109
     },
     {
       "eng": "be contingent upon",
       "kor": "~에 따라 결정되다",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 110
     },
     {
       "eng": "established",
       "kor": "확립된, 정평이 있는",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 111
     },
     {
       "eng": "front-runner",
       "kor": "가장 유력한 우승후보",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 112
     },
     {
       "eng": "intermittently",
       "kor": "간헐적으로",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 113
     },
     {
       "eng": "momentarily",
       "kor": "잠깐, 즉시",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 114
     },
     {
       "eng": "narrative",
       "kor": "(소설 속 사건에 대한) 기술, 묘사",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 115
     },
     {
       "eng": "consenting",
       "kor": "동의하는, 낙담하는",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 116
     },
     {
       "eng": "conversationally",
       "kor": "담화로, 회화체로",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 117
     },
     {
       "eng": "eloquent",
       "kor": "웅변을 잘하는, (연설 등이)감명을 주는",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 118
     },
     {
       "eng": "faction",
       "kor": "파벌, 당파",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 119
     },
     {
       "eng": "illegible",
       "kor": "읽기 어려운",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 120
     },
     {
       "eng": "presumably",
       "kor": "아마, 생각건대",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 121
     },
     {
       "eng": "abbreviate",
       "kor": "요약하다, 단축하다",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 122
     },
     {
       "eng": "abridgment",
       "kor": "요약, 요약본",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 123
     },
     {
       "eng": "coherent",
       "kor": "일관성 있는, (이야기)조리있는",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 124
     },
     {
       "eng": "confine",
       "kor": "제한하다",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 125
     },
     {
       "eng": "citation",
       "kor": "표창장",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 126
     },
     {
       "eng": "commemorate",
       "kor": "기념하다",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 127
     },
     {
       "eng": "conjunction",
       "kor": "연합, 공동",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 128
     },
     {
       "eng": "cut benefits",
       "kor": "복리후생을 줄이다",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 129
     },
     {
       "eng": "discriminate",
       "kor": "차별하다",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 130
     },
     {
       "eng": "distort",
       "kor": "왜곡하다",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 131
     },
     {
       "eng": "flextime",
       "kor": "자율근무시간제",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 132
     },
     {
       "eng": "fringe benefits",
       "kor": "부가 급부",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 133
     },
     {
       "eng": "goodwill",
       "kor": "호의",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 134
     },
     {
       "eng": "labor costs",
       "kor": "인건비",
-      "day": 9,
+      "day": "9",
       "isDone": false,
       "id": 135
     },
     {
       "eng": "apprentice ",
       "kor": "견습생, 도제",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 136
     },
     {
       "eng": "credential",
       "kor": "신임장, 자격증명서",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 137
     },
     {
       "eng": "thorough",
       "kor": "빈틈없는, 꼼꼼한, 철저한",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 138
     },
     {
       "eng": "estimated",
       "kor": "견적의",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 139
     },
     {
       "eng": "accurate",
       "kor": "정확한",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 140
     },
     {
       "eng": "expenditure",
       "kor": "지출, 비용",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 141
     },
     {
       "eng": "authorize",
       "kor": "위임하다, 승인하다",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 142
     },
     {
       "eng": "grant",
       "kor": "승인하다",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 143
     },
     {
       "eng": "ordinarily",
       "kor": "정상적으로, 대개는, 보통으로는",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 144
     },
     {
       "eng": "technically",
       "kor": "기술적으로",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 145
     },
     {
       "eng": "comparatively",
       "kor": "비교적, 비교해보면",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 146
     },
     {
       "eng": "shut off",
       "kor": "끄다, 잠그다",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 147
     },
     {
       "eng": "tutoring session",
       "kor": "개인 교습",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 148
     },
     {
       "eng": "formula",
       "kor": "제조법, 방식",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 149
     },
     {
       "eng": "remain to be seen",
       "kor": "두고볼 일이다, 두고봐야한다",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 150
     },
     {
       "eng": "congressperson",
       "kor": "국회의원",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 151
     },
     {
       "eng": "influx",
       "kor": "쇄도, 유입, 밀어닥침",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 152
     },
     {
       "eng": "convinced",
       "kor": "확신을 가진, 신념있는",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 153
     },
     {
       "eng": "circulate",
       "kor": "순환하다, 유포되다",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 154
     },
     {
       "eng": "precisely",
       "kor": "바로, 정확히, 정확하게",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 155
     },
     {
       "eng": "repeatedly",
       "kor": "되풀이하여",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 156
     },
     {
       "eng": "fairly",
       "kor": "상당히, 꽤",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 157
     },
     {
       "eng": "whereas",
       "kor": "반면",
-      "day": 10,
+      "day": "10",
       "isDone": false,
       "id": 158
     },
     {
       "eng": "resignation",
       "kor": "사직, 사임, 사직서",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 159
     },
     {
       "eng": "permanent",
       "kor": "영구적인",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 160
     },
     {
       "eng": "generate",
       "kor": "발생시키다",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 161
     },
     {
       "eng": "revealing",
       "kor": "드러내는",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 162
     },
     {
       "eng": "deteriorating",
       "kor": "악화중인, 악화되어가고 있는",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 163
     },
     {
       "eng": "overtaking",
       "kor": "추월, 앞지르기",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 164
     },
     {
       "eng": "discourage",
       "kor": "막다, 의욕을 꺾다, 좌절시키다",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 165
     },
     {
       "eng": "unanimously",
       "kor": "만장일치로",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 166
     },
     {
       "eng": "consecutively",
       "kor": "연속하여, 연이은",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 167
     },
     {
       "eng": "remarkably",
       "kor": "두드러지게, 현저하게",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 168
     },
     {
       "eng": "identically",
       "kor": "꼭 같게, 동등하게",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 169
     },
     {
       "eng": "kitchen utensil",
       "kor": "주방기구",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 170
     },
     {
       "eng": "scenery",
       "kor": "경치, 풍경, 무대",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 171
     },
     {
       "eng": "stationery store",
       "kor": "문구점",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 172
     },
     {
       "eng": "intersection",
       "kor": "교차로",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 173
     },
     {
       "eng": "basement floor",
       "kor": "지하층",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 174
     },
     {
       "eng": "rewarding",
       "kor": "보람있는",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 175
     },
     {
       "eng": "specify",
       "kor": "(구체적으로)명시하다",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 176
     },
     {
       "eng": "exaggerate",
       "kor": "과장하다",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 177
     },
     {
       "eng": "involvement",
       "kor": "개입, 관여",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 178
     },
     {
       "eng": "disclose",
       "kor": "발표하다, 공개하다",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 179
     },
     {
       "eng": "shareholder",
       "kor": "주주",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 180
     },
     {
       "eng": "intention",
       "kor": "의사, 의도, 목적",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 181
     },
     {
       "eng": "appropriation",
       "kor": "도용, 전용, 책정",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 182
     },
     {
       "eng": "eliminate",
       "kor": "삭제하다, 없애다",
-      "day": 11,
+      "day": "11",
       "isDone": false,
       "id": 183
     },
     {
       "eng": "coincide with",
       "kor": "~과 동시에 일어나다",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 184
     },
     {
       "eng": "reference",
       "kor": "참고, 참조",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 185
     },
     {
       "eng": "crucial",
       "kor": "매우 중요한, 필수적인",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 186
     },
     {
       "eng": "dispatch",
       "kor": "보내다, 파견하다",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 187
     },
     {
       "eng": "encounter",
       "kor": "직면하다, 접하다",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 188
     },
     {
       "eng": "depression",
       "kor": "우울증, 불황",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 189
     },
     {
       "eng": "transmit",
       "kor": "발신하다, 전달하다",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 190
     },
     {
       "eng": "valuables",
       "kor": "귀중품",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 191
     },
     {
       "eng": "appealing",
       "kor": "매력적인, 흥미로운",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 192
     },
     {
       "eng": "civil service",
       "kor": "공무원",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 193
     },
     {
       "eng": "originality",
       "kor": "독창성",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 194
     },
     {
       "eng": "handcraft",
       "kor": "수공예",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 195
     },
     {
       "eng": "attention",
       "kor": "정성, 배려",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 196
     },
     {
       "eng": "furnish A with B",
       "kor": "A에게 B를 제공하다",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 197
     },
     {
       "eng": "range from A to B",
       "kor": "A에서 B까지 이르다",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 198
     },
     {
       "eng": "be confronted with",
       "kor": "~에 직면하다",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 199
     },
     {
       "eng": "inspiring",
       "kor": "영감을 주는",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 200
     },
     {
       "eng": "orphanage",
       "kor": "고아원",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 201
     },
     {
       "eng": "nonprofit",
       "kor": "비영리의, 비영리단체",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 202
     },
     {
       "eng": "the underprivileged",
       "kor": "불우한 사람들",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 203
     },
     {
       "eng": "strengthen",
       "kor": "강화하다",
-      "day": 12,
+      "day": "12",
       "isDone": false,
       "id": 204
     },
     {
       "eng": "administration",
       "kor": "정부, 내각",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 205
     },
     {
       "eng": "exhausting",
       "kor": "소모적인",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 206
     },
     {
       "eng": "exhaustion",
       "kor": "소모, 고갈",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 207
     },
     {
       "eng": "registered",
       "kor": "등록된",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 208
     },
     {
       "eng": "retirement",
       "kor": "퇴직",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 209
     },
     {
       "eng": "delegate",
       "kor": "대표자, 위임하다, 뽑다",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 210
     },
     {
       "eng": "conclusion",
       "kor": "판단, 결론, 결말",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 211
     },
     {
       "eng": "concluding",
       "kor": "종결의, 최종의",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 212
     },
     {
       "eng": "meet the requirements",
       "kor": "조건을 충족시키다",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 213
     },
     {
       "eng": "outdated",
       "kor": "시대에 뒤진, 구식의",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 214
     },
     {
       "eng": "be packed with",
       "kor": "~로 가득하다",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 215
     },
     {
       "eng": "initiate",
       "kor": "시작하다, 개시하다",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 216
     },
     {
       "eng": "detector",
       "kor": "감지기",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 217
     },
     {
       "eng": "component",
       "kor": "구성요소, 부품",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 218
     },
     {
       "eng": "residence",
       "kor": "주택, 거주지",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 219
     },
     {
       "eng": "prescription",
       "kor": "처방, 처방전",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 220
     },
     {
       "eng": "the elderly",
       "kor": "노인들",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 221
     },
     {
       "eng": "respondent",
       "kor": "응답자",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 222
     },
     {
       "eng": "immigration",
       "kor": "이주",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 223
     },
     {
       "eng": "publicist",
       "kor": "홍보자",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 224
     },
     {
       "eng": "instruction",
       "kor": "교육, 훈련",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 225
     },
     {
       "eng": "permanent",
       "kor": "영원한, 정규직의",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 226
     },
     {
       "eng": "necessary",
       "kor": "필요한",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 227
     },
     {
       "eng": "file a complaint",
       "kor": "항의를 제기하다",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 228
     },
     {
       "eng": "completed",
       "kor": "완료된",
-      "day": 13,
+      "day": "13",
       "isDone": false,
       "id": 229
     },
     {
       "eng": "get along with",
       "kor": "~와 잘 지내다",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 230
     },
     {
       "eng": "termination",
       "kor": "종료",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 231
     },
     {
       "eng": "indicate",
       "kor": "보이다, 가리키다, 나타내다",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 232
     },
     {
       "eng": "inaccuracy",
       "kor": "비정확성, 오류, 틀림",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 233
     },
     {
       "eng": "registrant",
       "kor": "등록자",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 234
     },
     {
       "eng": "board of directors",
       "kor": "이사회",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 235
     },
     {
       "eng": "interpreter",
       "kor": "통역사",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 236
     },
     {
       "eng": "operator",
       "kor": "운영자, 경영자",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 237
     },
     {
       "eng": "raw material",
       "kor": "원자재",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 238
     },
     {
       "eng": "hazardous",
       "kor": "위험한",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 239
     },
     {
       "eng": "strike",
       "kor": "파업",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 240
     },
     {
       "eng": "debate",
       "kor": "토론, 토의, 논쟁, 논의하다",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 241
     },
     {
       "eng": "coverage",
       "kor": "보도, 범위, 보급",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 242
     },
     {
       "eng": "conservation",
       "kor": "보존, 보호",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 243
     },
     {
       "eng": "satisfaction",
       "kor": "만족",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 244
     },
     {
       "eng": "negotiator",
       "kor": "협상자",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 245
     },
     {
       "eng": "in general",
       "kor": "일반적으로",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 246
     },
     {
       "eng": "relieved",
       "kor": "안도하는",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 247
     },
     {
       "eng": "cuisine",
       "kor": "요리, 요리법",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 248
     },
     {
       "eng": "transmission",
       "kor": "전송, 송전, 방송",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 249
     },
     {
       "eng": "appreciate",
       "kor": "감사해하다, 고마워하다",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 250
     },
     {
       "eng": "authority",
       "kor": "권한, 권위, 지휘권",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 251
     },
     {
       "eng": "abstain from",
       "kor": "그만두다, 삼가다",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 252
     },
     {
       "eng": "efficient",
       "kor": "능률적인, 유능한",
-      "day": 14,
+      "day": "14",
       "isDone": false,
       "id": 253
     }
