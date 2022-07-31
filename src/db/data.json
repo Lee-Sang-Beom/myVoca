@@ -67,6 +67,18 @@
     {
       "day": 17,
       "id": 17
+    },
+    {
+      "day": 18,
+      "id": 18
+    },
+    {
+      "day": 19,
+      "id": 19
+    },
+    {
+      "day": 20,
+      "id": 20
     }
   ],
   "words": [
@@ -2463,7 +2475,370 @@
       "day": 18,
       "isDone": false,
       "id": 342
+    },
+    {
+      "eng": "exposition",
+      "kor": "설명, 전시회, 박람회",
+      "day": 19,
+      "isDone": false,
+      "id": 343
+    },
+    {
+      "eng": "sizable",
+      "kor": "꽤 큰, 상당한 크기의",
+      "day": 19,
+      "isDone": false,
+      "id": 344
+    },
+    {
+      "eng": "burdensome",
+      "kor": "부담스러운, 힘든",
+      "day": 19,
+      "isDone": false,
+      "id": 345
+    },
+    {
+      "eng": "marvelous",
+      "kor": "훌륭한, 놀라운, 기적적인",
+      "day": 19,
+      "isDone": false,
+      "id": 346
+    },
+    {
+      "eng": "suddenly",
+      "kor": "갑자기",
+      "day": 19,
+      "isDone": false,
+      "id": 347
+    },
+    {
+      "eng": "prospective",
+      "kor": "차기의, 장래의, 유망한",
+      "day": 19,
+      "isDone": false,
+      "id": 348
+    },
+    {
+      "eng": "reportable",
+      "kor": "보고할 수 있는",
+      "day": 19,
+      "isDone": false,
+      "id": 349
+    },
+    {
+      "eng": "drafting",
+      "kor": "기한, 제도, 선발",
+      "day": 19,
+      "isDone": false,
+      "id": 350
+    },
+    {
+      "eng": "power outage",
+      "kor": "송전 정지, 정전",
+      "day": 19,
+      "isDone": false,
+      "id": 351
+    },
+    {
+      "eng": "promptness",
+      "kor": "재빠름, 신속, 민첩성",
+      "day": 19,
+      "isDone": false,
+      "id": 352
+    },
+    {
+      "eng": "progressive",
+      "kor": "진보적인, 점진적인, 꾸준히 진행되는",
+      "day": 19,
+      "isDone": false,
+      "id": 353
+    },
+    {
+      "eng": "authorized",
+      "kor": "인정받은, 인증된, 공인된, 권한을 부여받은",
+      "day": 19,
+      "isDone": false,
+      "id": 354
+    },
+    {
+      "eng": "spring up",
+      "kor": "갑자기 생기다",
+      "day": 19,
+      "isDone": false,
+      "id": 355
+    },
+    {
+      "eng": "immediacy",
+      "kor": "직접성, 신속성",
+      "day": 19,
+      "isDone": false,
+      "id": 356
+    },
+    {
+      "eng": "equality",
+      "kor": "평등, 군등",
+      "day": 19,
+      "isDone": false,
+      "id": 357
+    },
+    {
+      "eng": "recognition",
+      "kor": "인식, 인정, 승인, 표창",
+      "day": 19,
+      "isDone": false,
+      "id": 358
+    },
+    {
+      "eng": "simplicity",
+      "kor": "간단함, 소박함",
+      "day": 19,
+      "isDone": false,
+      "id": 359
+    },
+    {
+      "eng": "restructuring",
+      "kor": "구조조정, 기업혁신전략",
+      "day": 19,
+      "isDone": false,
+      "id": 360
+    },
+    {
+      "eng": "incorporate",
+      "kor": "포함하다, 병합하다, 설립하다",
+      "day": 19,
+      "isDone": false,
+      "id": 361
+    },
+    {
+      "eng": "corporate",
+      "kor": "법인의, 통합된, 단체의",
+      "day": 19,
+      "isDone": false,
+      "id": 362
+    },
+    {
+      "eng": "real estate agent",
+      "kor": "부동산 중개인",
+      "day": 19,
+      "isDone": false,
+      "id": 363
+    },
+    {
+      "eng": "extraction",
+      "kor": "추출",
+      "day": 19,
+      "isDone": false,
+      "id": 364
+    },
+    {
+      "eng": "deposit",
+      "kor": "보증금",
+      "day": 19,
+      "isDone": false,
+      "id": 365
+    },
+    {
+      "eng": "precipitation",
+      "kor": "강수량",
+      "day": 19,
+      "isDone": false,
+      "id": 366
+    },
+    {
+      "eng": "irreversible",
+      "kor": "돌이킬 수 없는",
+      "day": 19,
+      "isDone": false,
+      "id": 367
+    },
+    {
+      "eng": "run through",
+      "kor": "~을 관통하다/통과하다, 퍼지다, 넘치다, 살펴보다",
+      "day": 19,
+      "isDone": false,
+      "id": 368
+    },
+    {
+      "eng": "fixture",
+      "kor": "경기, 설치물, 고정물",
+      "day": 20,
+      "isDone": false,
+      "id": 369
+    },
+    {
+      "eng": "in recognition of",
+      "kor": "~을 인정하여",
+      "day": 20,
+      "isDone": false,
+      "id": 370
+    },
+    {
+      "eng": "push",
+      "kor": "밀다, 노력, 분발, 추진",
+      "day": 20,
+      "isDone": false,
+      "id": 371
+    },
+    {
+      "eng": "mortgage",
+      "kor": "대출, 융자, 저당 잡히다",
+      "day": 20,
+      "isDone": false,
+      "id": 372
+    },
+    {
+      "eng": "moderate",
+      "kor": "사회를 보다, 보통의, 중간의",
+      "day": 20,
+      "isDone": false,
+      "id": 373
+    },
+    {
+      "eng": "ethical",
+      "kor": "윤리적인, 도덕적인",
+      "day": 20,
+      "isDone": false,
+      "id": 374
+    },
+    {
+      "eng": "contentment",
+      "kor": "만족, 흡족",
+      "day": 20,
+      "isDone": false,
+      "id": 375
+    },
+    {
+      "eng": "advocate",
+      "kor": "지지하다, 변호하다, 옹호자",
+      "day": 20,
+      "isDone": false,
+      "id": 376
+    },
+    {
+      "eng": "anniversary",
+      "kor": "기념일",
+      "day": 20,
+      "isDone": false,
+      "id": 377
+    },
+    {
+      "eng": "within easy distance",
+      "kor": "가까운 거리에",
+      "day": 20,
+      "isDone": false,
+      "id": 378
+    },
+    {
+      "eng": "dispute",
+      "kor": "분쟁, 논쟁, 이의제기하다, 반박하다",
+      "day": 20,
+      "isDone": false,
+      "id": 379
+    },
+    {
+      "eng": "offense",
+      "kor": "무례, 위반",
+      "day": 20,
+      "isDone": false,
+      "id": 380
+    },
+    {
+      "eng": "regardful",
+      "kor": "주의 깊은",
+      "day": 20,
+      "isDone": false,
+      "id": 381
+    },
+    {
+      "eng": "prime",
+      "kor": "주된, 최고의",
+      "day": 20,
+      "isDone": false,
+      "id": 382
+    },
+    {
+      "eng": "constraint",
+      "kor": "억압, 제약, 제한",
+      "day": 20,
+      "isDone": false,
+      "id": 383
+    },
+    {
+      "eng": "genuine",
+      "kor": "진짜의",
+      "day": 20,
+      "isDone": false,
+      "id": 384
+    },
+    {
+      "eng": "reproduction",
+      "kor": "복제품, 복제",
+      "day": 20,
+      "isDone": false,
+      "id": 385
+    },
+    {
+      "eng": "payroll",
+      "kor": "급여지급",
+      "day": 20,
+      "isDone": false,
+      "id": 386
+    },
+    {
+      "eng": "associated with",
+      "kor": "~와 관련된",
+      "day": 20,
+      "isDone": false,
+      "id": 387
+    },
+    {
+      "eng": "entitle A to B",
+      "kor": "A에게 B의 권리(자격)를 주다",
+      "day": 20,
+      "isDone": false,
+      "id": 388
+    },
+    {
+      "eng": "quota",
+      "kor": "할당량, 몫",
+      "day": 20,
+      "isDone": false,
+      "id": 389
+    },
+    {
+      "eng": "commonplace",
+      "kor": "흔한, 보통의",
+      "day": 20,
+      "isDone": false,
+      "id": 390
+    },
+    {
+      "eng": "living standard",
+      "kor": "생활수준",
+      "day": 20,
+      "isDone": false,
+      "id": 391
+    },
+    {
+      "eng": "refurbish",
+      "kor": "새로 단장하다",
+      "day": 20,
+      "isDone": false,
+      "id": 392
+    },
+    {
+      "eng": "implement",
+      "kor": "시행하다, 도구",
+      "day": 20,
+      "isDone": false,
+      "id": 393
+    },
+    {
+      "eng": "undercover",
+      "kor": "비밀의, 위장 근무의",
+      "day": 20,
+      "isDone": false,
+      "id": 394
     }
-    
   ]
 }
