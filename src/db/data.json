@@ -2839,6 +2839,146 @@
       "day": 20,
       "isDone": false,
       "id": 394
+     },
+    {
+      "eng": "dietary supplement",
+      "kor": "건강보조제",
+      "day": 21,
+      "isDone": false,
+      "id": 395
+    },
+    {
+      "eng": "physician",
+      "kor": "의사",
+      "day": 21,
+      "isDone": false,
+      "id": 396
+    },
+    {
+      "eng": "standing",
+      "kor": "고정적인, 서서하는, 지위",
+      "day": 21,
+      "isDone": false,
+      "id": 397
+    },
+    {
+      "eng": "lucrative",
+      "kor": "수익성 좋은",
+      "day": 21,
+      "isDone": false,
+      "id": 398
+    },
+    {
+      "eng": "supplemental",
+      "kor": "보충의, 부록의, 추가",
+      "day": 21,
+      "isDone": false,
+      "id": 399
+    },
+    {
+      "eng": "automotive",
+      "kor": "자동차의",
+      "day": 21,
+      "isDone": false,
+      "id": 400
+    },
+    {
+      "eng": "appointment",
+      "kor": "약속, 임명, 지명",
+      "day": 21,
+      "isDone": false,
+      "id": 401
+    },
+    {
+      "eng": "suitable",
+      "kor": "적합한, 적당한",
+      "day": 21,
+      "isDone": false,
+      "id": 402
+    },
+    {
+      "eng": "negotiate",
+      "kor": "협상하다",
+      "day": 21,
+      "isDone": false,
+      "id": 403
+    },
+    {
+      "eng": "certified",
+      "kor": "보증된",
+      "day": 21,
+      "isDone": false,
+      "id": 404
+    },
+    {
+      "eng": "institute",
+      "kor": "기구 ,기관, 도입하다, 시작하다",
+      "day": 21,
+      "isDone": false,
+      "id": 405
+    },
+    {
+      "eng": "private",
+      "kor": "사적의",
+      "day": 21,
+      "isDone": false,
+      "id": 406
+    },
+    {
+      "eng": "corporation",
+      "kor": "기업",
+      "day": 21,
+      "isDone": false,
+      "id": 407
+    },
+    {
+      "eng": "tuition",
+      "kor": "수업료",
+      "day": 21,
+      "isDone": false,
+      "id": 408
+    },
+    {
+      "eng": "formerly",
+      "kor": "이전에",
+      "day": 21,
+      "isDone": false,
+      "id": 409
+    },
+    {
+      "eng": "envelope",
+      "kor": "봉투",
+      "day": 21,
+      "isDone": false,
+      "id": 410
+    },
+    {
+      "eng": "information packet",
+      "kor": "자료묶음",
+      "day": 21,
+      "isDone": false,
+      "id": 411
+    },
+    {
+      "eng": "outline",
+      "kor": "개요를 서술하다",
+      "day": 21,
+      "isDone": false,
+      "id": 412
+    },
+    {
+      "eng": "overrun",
+      "kor": "급속히 퍼지다, 가득차다, 초과하다",
+      "day": 21,
+      "isDone": false,
+      "id": 413
+    },
+    {
+      "eng": "demonstrate",
+      "kor": "입증하다",
+      "day": 21,
+      "isDone": false,
+      "id": 414
     }
   ]
 }
