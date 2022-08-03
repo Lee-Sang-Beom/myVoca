@@ -2979,6 +2979,223 @@
       "day": 21,
       "isDone": false,
       "id": 414
+    },
+    {
+      "eng": "horticulture",
+      "kor": "원예, 원예학",
+      "day": 22,
+      "isDone": false,
+      "id": 415
+    },
+    {
+      "eng": "compatible with",
+      "kor": "~와 양립(호환)할 수 있는",
+      "day": 22,
+      "isDone": false,
+      "id": 416
+    },
+    {
+      "eng": "surveyor",
+      "kor": "감독관",
+      "day": 22,
+      "isDone": false,
+      "id": 417
+    },
+    {
+      "eng": "draw up",
+      "kor": "작성하다",
+      "day": 22,
+      "isDone": false,
+      "id": 418
+    },
+    {
+      "eng": "alteration",
+      "kor": "수정",
+      "day": 22,
+      "isDone": false,
+      "id": 419
+    },
+    {
+      "eng": "intervene",
+      "kor": "개입하다, 끼어들다",
+      "day": 22,
+      "isDone": false,
+      "id": 420
+    },
+    {
+      "eng": "halt",
+      "kor": "멈추다, 중지시키다, 멈춤, 중단",
+      "day": 22,
+      "isDone": false,
+      "id": 421
+    },
+    {
+      "eng": "downswing",
+      "kor": "하락",
+      "day": 22,
+      "isDone": false,
+      "id": 422
+    },
+    {
+      "eng": "exceptional",
+      "kor": "아주 우수한, 특출난",
+      "day": 22,
+      "isDone": false,
+      "id": 423
+    },
+    {
+      "eng": "senior",
+      "kor": "고위의, 선배의",
+      "day": 22,
+      "isDone": false,
+      "id": 424
+    },
+    {
+      "eng": "bound",
+      "kor": "꼭 ~할 것 같은, 할 가능성이 큰, 결합한, 경계",
+      "day": 22,
+      "isDone": false,
+      "id": 425
+    },
+    {
+      "eng": "get stuck",
+      "kor": "막히다, 꼼짝 못하게 되다",
+      "day": 22,
+      "isDone": false,
+      "id": 426
+    },
+    {
+      "eng": "fill out",
+      "kor": "작성하다",
+      "day": 22,
+      "isDone": false,
+      "id": 427
+    },
+    {
+      "eng": "stabilize",
+      "kor": "안정되다, 안정시키다",
+      "day": 22,
+      "isDone": false,
+      "id": 428
+    },
+    {
+      "eng": "comfort",
+      "kor": "안락, 편안함, 위로하다",
+      "day": 22,
+      "isDone": false,
+      "id": 429
+    },
+    {
+      "eng": "participant",
+      "kor": "참여자",
+      "day": 22,
+      "isDone": false,
+      "id": 430
+    },
+    {
+      "eng": "exclusive",
+      "kor": "독점적인",
+      "day": 22,
+      "isDone": false,
+      "id": 431
+    },
+    {
+      "eng": "expansive",
+      "kor": "광활한, 광범위한",
+      "day": 22,
+      "isDone": false,
+      "id": 432
+    },
+    {
+      "eng": "reproduce",
+      "kor": "재생산하다",
+      "day": 22,
+      "isDone": false,
+      "id": 433
+    },
+    {
+      "eng": "clarity",
+      "kor": "명확성",
+      "day": 22,
+      "isDone": false,
+      "id": 434
+    },
+    {
+      "eng": "steadily",
+      "kor": "꾸준하게",
+      "day": 22,
+      "isDone": false,
+      "id": 435
+    },
+    {
+      "eng": "expansion",
+      "kor": "확장",
+      "day": 22,
+      "isDone": false,
+      "id": 436
+    },
+    {
+      "eng": "matter",
+      "kor": "문제, 물질",
+      "day": 22,
+      "isDone": false,
+      "id": 437
+    },
+    {
+      "eng": "material",
+      "kor": "재료",
+      "day": 22,
+      "isDone": false,
+      "id": 438
+    },
+    {
+      "eng": "provided",
+      "kor": "(접속사) 만약 ~라면",
+      "day": 22,
+      "isDone": false,
+      "id": 439
+    },
+    {
+      "eng": "refute",
+      "kor": "반박하다, 부인하다",
+      "day": 22,
+      "isDone": false,
+      "id": 440
+    },
+    {
+      "eng": "supplementary",
+      "kor": "보충의",
+      "day": 22,
+      "isDone": false,
+      "id": 441
+    },
+    {
+      "eng": "committee",
+      "kor": "위원회",
+      "day": 22,
+      "isDone": false,
+      "id": 442
+    },
+    {
+      "eng": "allocate",
+      "kor": "할당하다",
+      "day": 22,
+      "isDone": false,
+      "id": 443
+    },
+    {
+      "eng": "vice president",
+      "kor": "부사장",
+      "day": 22,
+      "isDone": false,
+      "id": 444
+    },
+    {
+      "eng": "divulge",
+      "kor": "(비밀을) 알려주다, 누설하다",
+      "day": 22,
+      "isDone": false,
+      "id": 445
     }
   ]
 }
