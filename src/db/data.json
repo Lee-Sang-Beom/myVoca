@@ -3196,6 +3196,174 @@
       "day": 22,
       "isDone": false,
       "id": 445
+    },
+    {
+      "eng": "confidential",
+      "kor": "기밀의",
+      "day": 23,
+      "isDone": false,
+      "id": 446
+    },
+    {
+      "eng": "remind",
+      "kor": "상기시키다",
+      "day": 23,
+      "isDone": false,
+      "id": 447
+    },
+    {
+      "eng": "determine",
+      "kor": "알아내다, 결정하다, 밝히다",
+      "day": 23,
+      "isDone": false,
+      "id": 448
+    },
+    {
+      "eng": "disburse",
+      "kor": "지불하다, 지출하다, 분배하다",
+      "day": 23,
+      "isDone": false,
+      "id": 449
+    },
+    {
+      "eng": "organize",
+      "kor": "조직하다",
+      "day": 23,
+      "isDone": false,
+      "id": 450
+    },
+    {
+      "eng": "spending",
+      "kor": "소비, 지출",
+      "day": 23,
+      "isDone": false,
+      "id": 451
+    },
+    {
+      "eng": "inadvertently",
+      "kor": "무심코, 우연히, 부주의로, 실수로",
+      "day": 23,
+      "isDone": false,
+      "id": 452
+    },
+    {
+      "eng": "depending on",
+      "kor": "~에 따라, 따라서",
+      "day": 23,
+      "isDone": false,
+      "id": 453
+    },
+    {
+      "eng": "implementation",
+      "kor": "실행, 이행",
+      "day": 23,
+      "isDone": false,
+      "id": 454
+    },
+    {
+      "eng": "be loyal to",
+      "kor": "~에 충성하다",
+      "day": 23,
+      "isDone": false,
+      "id": 455
+    },
+    {
+      "eng": "hoist",
+      "kor": "끌어올리다, 승강장치",
+      "day": 23,
+      "isDone": false,
+      "id": 456
+    },
+    {
+      "eng": "admittance",
+      "kor": "입장, 들어감, 인정",
+      "day": 23,
+      "isDone": false,
+      "id": 457
+    },
+    {
+      "eng": "admittable",
+      "kor": "들어갈 자격이 있는, 허용할 수 있는",
+      "day": 23,
+      "isDone": false,
+      "id": 458
+    },
+    {
+      "eng": "trustworthly",
+      "kor": "믿을만한, 신뢰할 수 있는 (형용사)",
+      "day": 23,
+      "isDone": false,
+      "id": 459
+    },
+    {
+      "eng": "corporate",
+      "kor": "기업의",
+      "day": 23,
+      "isDone": false,
+      "id": 460
+    },
+    {
+      "eng": "perceive",
+      "kor": "인지하다, 알아차리다, 인식하다",
+      "day": 23,
+      "isDone": false,
+      "id": 461
+    },
+    {
+      "eng": "when it comes to",
+      "kor": "~에 관해서는, ~에 관한 한 ",
+      "day": 23,
+      "isDone": false,
+      "id": 462
+    },
+    {
+      "eng": "translation",
+      "kor": "번역, 통역",
+      "day": 23,
+      "isDone": false,
+      "id": 463
+    },
+    {
+      "eng": "fortune",
+      "kor": "재산, 부, 행운",
+      "day": 23,
+      "isDone": false,
+      "id": 464
+    },
+    {
+      "eng": "circumstance",
+      "kor": "환경, 상황",
+      "day": 23,
+      "isDone": false,
+      "id": 465
+    },
+    {
+      "eng": "enrollee",
+      "kor": "등록자",
+      "day": 23,
+      "isDone": false,
+      "id": 466
+    },
+    {
+      "eng": "inconvenience",
+      "kor": "불편",
+      "day": 23,
+      "isDone": false,
+      "id": 467
+    },
+    {
+      "eng": "inability",
+      "kor": "무능, 불능",
+      "day": 23,
+      "isDone": false,
+      "id": 468
+    },
+    {
+      "eng": "species",
+      "kor": "종",
+      "day": 23,
+      "isDone": false,
+      "id": 469
     }
   ]
 }
